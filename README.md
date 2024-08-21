@@ -6,7 +6,6 @@
 🏡 From Portugal 🇵🇹<br>
 📍 Living in Switzerland 🇨🇭<br>
 🎓 BsC Informatics Engineering, Applications Development @ ISEC, 🇵🇹<br>
-💼 I'm a Co-Founder, Branch Manager, and Software Engineer @ Deemaze Software Sàrl<br>
 
 ###
 
@@ -34,26 +33,26 @@
 As an autonomous, versatile, problem solver, I specialize in project management, web and mobile application development, IoT, and blockchain technologies. With in-depth knowledge of UNIX distributions and a passion for the Apple ecosystem and terminal, my expertise spans a range of technical areas, allowing me to take on complex projects and deliver innovative solutions.
 
 ### 🎯 Project Management  
-  • Proficient in managing projects using Agile methodologies, including the integration of Azure DevOps, Jira, and Confluence.<br>
-  •	Skilled in managing backlogs, boards, tasks, sprints, GIT, and branches, ensuring streamlined workflows and efficient team collaboration.
+&emsp;• Proficient in managing projects using Agile methodologies, including the integration of Azure DevOps, Jira, and Confluence.<br>
+&emsp;•	Skilled in managing backlogs, boards, tasks, sprints, GIT, and branches, ensuring streamlined workflows and efficient team collaboration.
   
 ### 📱 Web & Mobile Applications
-  •	Adept in developing robust backend and frontend solutions with Node.js, Next.js, and React.js, as well as Swift and SwiftUI for iOS applications.<br>
-  •	Proven track record in building RESTful APIs, utilizing version control systems like GIT, GitLab, and GitHub to maintain high-quality code.
+&emsp;•	Adept in developing robust backend and frontend solutions with Node.js, Next.js, and React.js, as well as Swift and SwiftUI for iOS applications.<br>
+&emsp;•	Proven track record in building RESTful APIs, utilizing version control systems like GIT, GitLab, and GitHub to maintain high-quality code.
 
 ### 💻 Web Technologies and Scripting
-  •	Expertise in HTML, CSS, PHP, and JavaScript for full-stack web development.<br>
-  •	Proficiency in scripting languages such as PHP, Bash, Perl, and Python.
+&emsp;•	Expertise in HTML, CSS, PHP, and JavaScript for full-stack web development.<br>
+&emsp;•	Proficiency in scripting languages such as PHP, Bash, Perl, and Python.
 
 ### 🗃️ Database and Server Management
-  •	Skilled in SQL database administration and Linux server management to optimize performance and reliability.<br>
+&emsp;•	Skilled in SQL database administration and Linux server management to optimize performance and reliability.<br>
 
 ### 🔗 Blockchain & NFTs
-  •	Knowledgeable in blockchain, NFTs, and smart contracts, with a focus on innovative web applications.
+&emsp;•	Knowledgeable in blockchain, NFTs, and smart contracts, with a focus on innovative web applications.
   
 ### 💡 IoT and Embedded Systems
-  •	Experienced in working with ThingsBoard and Weble for IoT projects, including RESTful APIs, gateways, and connectivity protocols.<br>
-  •	Strong focus on technical documentation and project execution.
+&emsp;•	Experienced in working with ThingsBoard and Weble for IoT projects, including RESTful APIs, gateways, and connectivity protocols.<br>
+&emsp;•	Strong focus on technical documentation and project execution.
   
 I’m dedicated to delivering high-quality results and thrive in fast-paced, collaborative environments. Whether leading a team or working independently, I bring a proactive and adaptable approach to every project. Let’s connect to discuss potential opportunities and how I can contribute to your organization’s success. 📈
 
