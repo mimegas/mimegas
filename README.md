@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">👨‍💻 My name is Miguel Ferreira<br>🏡 From Portugal 🇵🇹<br>📍 Living in Switzerland 🇨🇭<br>💼 I'm a Co-Founder, Branch Manager and Software Engineer @ Deemaze Software Sàrl<br>🎓 BsC Informatics Engineering, Applications Development @ ISEC, 🇵🇹</p>
+👨‍💻 My name is Miguel Ferreira<br>
+🏡 From Portugal 🇵🇹<br>
+📍 Living in Switzerland 🇨🇭<br>
+🎓 BsC Informatics Engineering, Applications Development @ ISEC, 🇵🇹<br>
+💼 I'm a Co-Founder, Branch Manager, and Software Engineer @ Deemaze Software Sàrl<br>
 
 ###
 
@@ -23,23 +27,35 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mimegas/mimegas/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mimegas/count.svg?"  />
-</div>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">As an autonomous, versatile, problem solver, I specialize in project management, web and mobile application development, IoT, and blockchain technologies. With in-depth knowledge of UNIX distributions and a passion for the Apple ecosystem and terminal, my expertise spans a range of technical areas, allowing me to take on complex projects and deliver innovative solutions.<br><br>🎯 Project Management<br><br>	•	Proficient in managing projects using Agile methodologies, including the integration of Azure DevOps, Jira, and Confluence.<br>	•	Skilled in managing backlogs, boards, tasks, sprints, GIT, and branches, ensuring streamlined workflows and efficient team collaboration.<br><br>📱 Web & Mobile Applications <br><br>	•	Adept in developing robust backend and frontend solutions with Node.js, Next.js, and React.js, as well as Swift and SwiftUI for iOS applications.<br>	•	Proven track record in building RESTful APIs, utilizing version control systems like GIT, GitLab, and GitHub to maintain high-quality code.<br><br>💡 IoT and Embedded Systems<br><br>	•	Experienced in working with ThingsBoard and Weble for IoT projects, including RESTful APIs, gateways, and connectivity protocols.<br>	•	Strong focus on technical documentation and project execution.<br><br>🔗 Blockchain & NFTs<br><br>	•	Knowledgeable in blockchain, NFTs, and smart contracts, with a focus on innovative web applications.<br><br>💻 Web Technologies and Scripting<br><br>	•	Expertise in HTML, CSS, PHP, and JavaScript for full-stack web development.<br>	•	Proficiency in scripting languages such as PHP, Bash, Perl, and Python.<br><br>🗃️ Database and Server Management<br><br>	•	Skilled in SQL database administration and Linux server management to optimize performance and reliability.<br><br>I’m dedicated to delivering high-quality results and thrive in fast-paced, collaborative environments. Whether leading a team or working independently, I bring a proactive and adaptable approach to every project. Let’s connect to discuss potential opportunities and how I can contribute to your organization’s success. 📈</p>
+As an autonomous, versatile, problem solver, I specialize in project management, web and mobile application development, IoT, and blockchain technologies. With in-depth knowledge of UNIX distributions and a passion for the Apple ecosystem and terminal, my expertise spans a range of technical areas, allowing me to take on complex projects and deliver innovative solutions.
+
+### 🎯 Project Management  
+  • Proficient in managing projects using Agile methodologies, including the integration of Azure DevOps, Jira, and Confluence.<br>
+  •	Skilled in managing backlogs, boards, tasks, sprints, GIT, and branches, ensuring streamlined workflows and efficient team collaboration.
+  
+### 📱 Web & Mobile Applications
+  •	Adept in developing robust backend and frontend solutions with Node.js, Next.js, and React.js, as well as Swift and SwiftUI for iOS applications.<br>
+  •	Proven track record in building RESTful APIs, utilizing version control systems like GIT, GitLab, and GitHub to maintain high-quality code.
+
+### 💻 Web Technologies and Scripting
+  •	Expertise in HTML, CSS, PHP, and JavaScript for full-stack web development.<br>
+  •	Proficiency in scripting languages such as PHP, Bash, Perl, and Python.
+
+### 🗃️ Database and Server Management
+  •	Skilled in SQL database administration and Linux server management to optimize performance and reliability.<br>
+
+### 🔗 Blockchain & NFTs
+  •	Knowledgeable in blockchain, NFTs, and smart contracts, with a focus on innovative web applications.
+  
+### 💡 IoT and Embedded Systems
+  •	Experienced in working with ThingsBoard and Weble for IoT projects, including RESTful APIs, gateways, and connectivity protocols.<br>
+  •	Strong focus on technical documentation and project execution.
+  
+I’m dedicated to delivering high-quality results and thrive in fast-paced, collaborative environments. Whether leading a team or working independently, I bring a proactive and adaptable approach to every project. Let’s connect to discuss potential opportunities and how I can contribute to your organization’s success. 📈
 
 ###
 
